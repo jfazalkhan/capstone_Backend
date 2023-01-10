@@ -1,0 +1,4 @@
+com\example\Validate\entity\Customer.class
+com\example\Validate\Controller\MyController.class
+com\example\Validate\entity\Address.class
+com\example\Validate\ProjectApplication.class
